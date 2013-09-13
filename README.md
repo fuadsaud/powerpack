@@ -24,6 +24,7 @@ Or install it yourself as:
 * [Array](http://rdoc.info/github/bbatsov/powerpack/Array)
     * [#butfirst](http://rdoc.info/github/bbatsov/powerpack/Array#butfirst-instance_method)
     * [#butlast](http://rdoc.info/github/bbatsov/powerpack/Array#butlast-instance_method)
+    * [#unwrap](http://rdoc.info/github/bbatsov/powerpack/Array#unwrap-instance_method)
 * [Enumerable](http://rdoc.info/github/bbatsov/powerpack/Enumerable)
     * [#average](http://rdoc.info/github/bbatsov/powerpack/Enumerable#average-instance_method)
     * [#drop_last](http://rdoc.info/github/bbatsov/powerpack/Enumerable#drop_last-instance_method)

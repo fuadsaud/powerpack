@@ -4,6 +4,7 @@
 
 ### New features
 
+* Added `Array#unwrap`
 * Added `Enumerable#exactly?`
 * Added `Enumerable#average`
 * Added `Numeric#hundred`
