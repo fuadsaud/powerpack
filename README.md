@@ -35,6 +35,7 @@ Or install it yourself as:
     * [#take_last](http://rdoc.info/github/bbatsov/powerpack/Enumerable#take_last-instance_method)
     * [#take_last_while](http://rdoc.info/github/bbatsov/powerpack/Enumerable#take_last_while-instance_method)
 * [Hash](http://rdoc.info/github/bbatsov/powerpack/Hash)
+    * [#map_values](http://rdoc.info/github/bbatsov/powerpack/Hash#map_values_method)
     * [#symbolize_keys](http://rdoc.info/github/bbatsov/powerpack/Hash#symbolize_keys-instance_method)
 * [Numeric](http://rdoc.info/github/bbatsov/powerpack/Numeric)
     * [#pos?](http://rdoc.info/github/bbatsov/powerpack/Numeric#pos?-instance_method)

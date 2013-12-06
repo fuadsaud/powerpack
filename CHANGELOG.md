@@ -2,6 +2,8 @@
 
 ## master (unreleased)
 
+* Added `Hash#map_values`
+
 ## 0.1.1 (04/05/2015)
 
 No user-visible changes.
