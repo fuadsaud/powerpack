@@ -2,6 +2,8 @@
 
 ## master (unreleased)
 
+* Added `Enumerable#transform`
+
 ## 0.0.9 (22/10/2013)
 
 * Added `String#remove`
